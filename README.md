@@ -53,12 +53,11 @@ With over 6+ years of experience , I have a proven track record of optimizing en
 
 ### **Encora Innovation Labs** | *Software Engineer*  
 **Aug 2022 – Oct 2023**  
-**Client:** OpenText
 
 - Engineered backend components for the **ITOM Practitioner Portal** using the **LAMP stack (Linux, Apache, MySQL, PHP)**.  
 - Developed and maintained **RESTful APIs in PHP (MediaWiki)** to support portal functionality and system integrations.  
 - Automated repetitive **server tasks, cron jobs, and maintenance scripts** using **UNIX shell and Python**, improving system efficiency and reliability.  
-- Collaborated with client teams to deliver scalable backend solutions aligned with **OpenText ITOM** requirements.  
+- Collaborated with client teams to deliver scalable backend solutions aligned with **ITOM** requirements.  
 
 
 ### **Exalogic Consulting** | *Associate Consultant* **Dec 2019 – Aug 2022**
