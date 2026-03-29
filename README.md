@@ -14,7 +14,7 @@
 I am a results-driven **Software Engineer** specializing in building robust backend systems, scalable APIs, and AI-driven solutions. 
 With over 6+ years of experience , I have a proven track record of optimizing enterprise-grade platforms and streamlining development through DevOps best practices.
 
-* 🔭 **Current Role:** Engineering backend automation and scalable APIs at **OpenText**.
+* 🔭 **Current Role:** Engineering backend automation and scalable APIs at **Encora**.
 * ⚙️ **Core Strengths:** API Design, Database Optimization, CI/CD Automation, and Linux System Administration.
 * 🤖 **AI Focus:** Leveraging modern AI technologies to improve performance and development workflows.
 
